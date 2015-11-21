@@ -7,7 +7,7 @@ The repo contains:
 - README.txt: This file.
 - run_analysis.R: The code file to transform the original data to the clean data.
 - result.txt: The clean data set output to a text file.
-- CodeBook.txt: The code book for the clean data set.
+- CodeBook.md: The code book for the clean data set.
 
 ## Code description
 
