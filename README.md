@@ -7,7 +7,7 @@ The repo contains:
 - README.txt: This file.
 - run_analysis.R: The code file to transform the original data to the clean data.
 - result.txt: The clean data set output to a text file.
-- 
+- CodeBook.txt: The code book for the clean data set.
 
 ## Code description
 
@@ -24,4 +24,4 @@ The code is commented with more detailed descriptions. It performs the following
 9. The activity values are changed to descriptive names and the column name is adjusted appropriately.
 10. A new data set is created from this, grouped by the subject and activity, and summarised by the mean of each feature variable.
 11. This data set is output to result.txt in the working directory.
-12. The function outputs the clean data set.
+12. The function outputs the clean data set as a data frame.
