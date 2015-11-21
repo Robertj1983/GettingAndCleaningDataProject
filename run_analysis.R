@@ -74,4 +74,6 @@ run_analysis <- function() {
     ## Output the clean data
     setwd("./..")
     write.table(cleanData, "result.txt", row.names = FALSE)
+    
+    cleanData
 }
